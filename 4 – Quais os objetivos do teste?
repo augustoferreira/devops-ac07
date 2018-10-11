@@ -1,13 +1,9 @@
- Nos testes de devops é possível evitar as atividades manuais e repetitivas e que sobrecarregam tanto o orçamento quanto o
- cronograma de uma empresa. Além disso, ainda há a possibilidade da criação de testes mais abrangentes, elaborados e que 
- estejam de acordo com as funcionalidades e exigências de seus produtos.
- 
-Os testes no devops podem ser divididos da seguinte maneira:
-•	unitários: permitem a redução das unidades das classes, aplicações e validações de tamanho de campos;
-•	integrados: fomentam a integração das aplicações existentes nos sistemas;
-•	visuais: asseguram o funcionamento do layout e dos elementos estáticos de um aplicativo;
-•	funcionais: garantem uma boa performance das funcionalidades;
-•	performance: fazem com que os releases atendam às especificações previamente definidas e os comparam com resultados anteriores.
+ Para que a prática de DevOps funcione corretamente, é necessário alinhar os testes à qualidade dos produtos/serviços. 
+ As verificações devem ser consideradas em toda a linha de produção e não apenas como uma fase do processo. 
+ Este é o papel do responsável pela QA (Quallity Assurance - Garantia de Qualidade).
+ No nível do desenvolvimento, a função da QA é colocar o máximo de testes no ciclo de Integração Contínua (CI).
+ Enquanto na operação, é monitorar todo o estado da produção com o Smoke Test - um conjunto de pequeno testes que são extremamente
+ básicos, mas necessários para o bom funcionamento de toda a produção.
 
 
 Camila Hauschild
