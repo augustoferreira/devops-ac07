@@ -1,0 +1,10 @@
+Os testes no devops podem ser divididos da seguinte maneira:
+
+•	unitários: permitem a redução das unidades das classes, aplicações e validações de tamanho de campos;
+•	integrados: fomentam a integração das aplicações existentes nos sistemas;
+•	visuais: asseguram o funcionamento do layout e dos elementos estáticos de um aplicativo;
+•	funcionais: garantem uma boa performance das funcionalidades;
+•	performance: fazem com que os releases atendam às especificações previamente definidas e os comparam com resultados anteriores.
+
+Camila Hauschild
+RA 1800891
