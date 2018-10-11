@@ -1,0 +1,7 @@
+R: Os testes no mundo "DevOps" serve como base para ter uma possível validação. Existem 3 testes, o teste de aceitação, unitário e integração.
+
+- Aceitação: Testa um requisito funcional, normalmente pela UI.
+
+- Unitário: Testa o comportamento de 1 objeto.
+
+- Integração: Teste entre aceitação e unitário, testando comportamento de ou mais objetos juntos.
