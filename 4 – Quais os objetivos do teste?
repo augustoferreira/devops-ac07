@@ -1,0 +1,14 @@
+ Nos testes de devops é possível evitar as atividades manuais e repetitivas e que sobrecarregam tanto o orçamento quanto o
+ cronograma de uma empresa. Além disso, ainda há a possibilidade da criação de testes mais abrangentes, elaborados e que 
+ estejam de acordo com as funcionalidades e exigências de seus produtos.
+ 
+Os testes no devops podem ser divididos da seguinte maneira:
+•	unitários: permitem a redução das unidades das classes, aplicações e validações de tamanho de campos;
+•	integrados: fomentam a integração das aplicações existentes nos sistemas;
+•	visuais: asseguram o funcionamento do layout e dos elementos estáticos de um aplicativo;
+•	funcionais: garantem uma boa performance das funcionalidades;
+•	performance: fazem com que os releases atendam às especificações previamente definidas e os comparam com resultados anteriores.
+
+
+Camila Hauschild
+RA 1800891
