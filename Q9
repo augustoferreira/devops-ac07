@@ -1,0 +1,10 @@
+R: A pirâmide de teste é utilizada onde um projeto não tem uma frequência de requisitos muito bem definidos. Uma boa estratégia é buscar ferramentas no mercado que possuem suporte para o fluxo da interface com o usuário, e que geram o código de teste.
+
+	Exemplo. Appium, muitas vezes tomadas como primeira opção por aqueles que ainda não possuem experiência com automação, que por sua aparente facilidade de uso levam a pensar que se encontrou a solução ideal.
+
+Qual seria uma boa estratégia?
+- Manter custos de desenvolvimento em níveis daudáveis.
+
+- Garantir qualidade externa.
+
+- Ajudar na qualidade interna.
